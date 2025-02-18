@@ -2,3 +2,6 @@ granny smith
 apples
 apples
 green apple
+yellow apple
+pear
+mango
